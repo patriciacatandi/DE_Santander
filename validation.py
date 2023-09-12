@@ -10,5 +10,5 @@ def dev2():
 def funcao_PR():
     print("Função para mostrar o pull request")
 
-def commit():
+def commit_uma_vez():
     print("commit")
