@@ -5,4 +5,7 @@ def dev1():
 
 
 def dev2():
-    print("Função criada pelo dev2")
+    print("Função criada pelo dev2 ")
+
+def funcao_PR():
+    print("Função para mostrar o pull request")
